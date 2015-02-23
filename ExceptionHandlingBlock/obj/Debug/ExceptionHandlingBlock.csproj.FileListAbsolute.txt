@@ -1,0 +1,12 @@
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\ExceptionHandlingBlock\ExceptionHandlingBlock\bin\Debug\ExceptionHandlingBlock.exe.config
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\ExceptionHandlingBlock\ExceptionHandlingBlock\bin\Debug\ExceptionHandlingBlock.exe
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\ExceptionHandlingBlock\ExceptionHandlingBlock\bin\Debug\ExceptionHandlingBlock.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\ExceptionHandlingBlock\ExceptionHandlingBlock\obj\Debug\ExceptionHandlingBlock.exe
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\ExceptionHandlingBlock\ExceptionHandlingBlock\obj\Debug\ExceptionHandlingBlock.pdb
+C:\Users\Shane.Kmiecik\documents\visual studio 2013\Projects\ExceptionHandlingBlock\ExceptionHandlingBlock\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\Shane.Kmiecik\documents\visual studio 2013\Projects\ExceptionHandlingBlock\ExceptionHandlingBlock\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\ExceptionHandlingBlock\ExceptionHandlingBlock\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\ExceptionHandlingBlock\ExceptionHandlingBlock\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\ExceptionHandlingBlock\ExceptionHandlingBlock\obj\Debug\ExceptionHandlingBlock.csprojResolveAssemblyReference.cache
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\ExceptionHandlingBlock\ExceptionHandlingBlock\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\ExceptionHandlingBlock\ExceptionHandlingBlock\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
